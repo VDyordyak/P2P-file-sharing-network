@@ -1,0 +1,15 @@
+MainThread - DEBUG - tracker.leechers-paradise.org 
+tracker.leechers-paradise.orgUDP tracker connection request failed(FAILED)
+
+MainThread - DEBUG - trackers 
++-----------------------------------------+------------------------------------+
+|              TRACKERS LIST              |         CONNECTION STATUS          |
++-----------------------------------------+------------------------------------+
+|      tracker.internetwarriors.net       | successful connection (SUCCESSFUL) |
++-----------------------------------------+------------------------------------+
+|      tracker.leechers-paradise.org      |     failed connection (FAILED)     |
++-----------------------------------------+------------------------------------+
+| http://tracker.tfile.co:80/announce ... |     not attempted connection       |
+|             31 connections              |                                    |
++-----------------------------------------+------------------------------------+
+

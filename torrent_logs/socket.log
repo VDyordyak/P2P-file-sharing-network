@@ -1,0 +1,12 @@
+Thread-1 (connect_to_peer) - DEBUG - 185.5.46.1 24962 
+Socket connection failed for 185.5.46.1 24962 : [WinError 10061] No connection could be made because the target machine actively refused it
+
+Thread-6 (connect_to_peer) - DEBUG - 45.89.90.148 6881 
+Socket connection failed for 45.89.90.148 6881 : timed out
+
+Thread-2 (connect_to_peer) - DEBUG - 178.221.182.71 51413 
+Socket connection failed for 178.221.182.71 51413 : timed out
+
+Thread-5 (connect_to_peer) - DEBUG - 136.144.42.129 8999 
+Socket connection failed for 136.144.42.129 8999 : timed out
+

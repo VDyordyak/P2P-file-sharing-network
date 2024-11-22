@@ -1,0 +1,42 @@
+Thread-3 (connect_to_peer) - DEBUG - peer(178.162.173.90 : 20003) 
+SEND CONNECTION STATUS : (178.162.173.90 : 20003) (SUCCESSFUL)
+
+Thread-3 (connect_to_peer) - DEBUG - peer(178.162.173.90 : 20003) 
+Handshake initiated -----> (178.162.173.90 : 20003)
+
+Thread-3 (connect_to_peer) - DEBUG - peer(178.162.173.90 : 20003) 
+Handshake recived   <----- (178.162.173.90 : 20003)
+
+Thread-3 (connect_to_peer) - DEBUG - peer(178.162.173.90 : 20003) 
+Handshake validation : (SUCCESSFUL)
+
+Thread-3 (connect_to_peer) - DEBUG - peer(178.162.173.90 : 20003) 
+recieved message <----- BITFIELD : (message paylaod : [bitfield length : 15])
+
+Thread-4 (connect_to_peer) - DEBUG - peer(149.102.226.201 : 58178) 
+SEND CONNECTION STATUS : (149.102.226.201 : 58178) (SUCCESSFUL)
+
+Thread-4 (connect_to_peer) - DEBUG - peer(149.102.226.201 : 58178) 
+Handshake initiated -----> (149.102.226.201 : 58178)
+
+Thread-4 (connect_to_peer) - DEBUG - peer(149.102.226.201 : 58178) 
+Handshake not recived from (149.102.226.201 : 58178)
+
+Thread-1 (connect_to_peer) - DEBUG - peer(185.5.46.1 : 24962) 
+SEND CONNECTION STATUS : (185.5.46.1 : 24962) (FAILED)
+
+Thread-6 (connect_to_peer) - DEBUG - peer(45.89.90.148 : 6881) 
+SEND CONNECTION STATUS : (45.89.90.148 : 6881) (FAILED)
+
+Thread-2 (connect_to_peer) - DEBUG - peer(178.221.182.71 : 51413) 
+SEND CONNECTION STATUS : (178.221.182.71 : 51413) (FAILED)
+
+Thread-5 (connect_to_peer) - DEBUG - peer(136.144.42.129 : 8999) 
+SEND CONNECTION STATUS : (136.144.42.129 : 8999) (FAILED)
+
+Thread-8 (download_piece) - DEBUG - peer(178.162.173.90 : 20003) 
+sending message  -----> INTERESTED : (message length : 1), (message id : 2), (message paylaod : None)
+
+Thread-8 (download_piece) - DEBUG - peer(178.162.173.90 : 20003) 
+(178.162.173.90 : 20003) peer keep alive timeout ! (FAILED) disconnecting the peer connection!
+

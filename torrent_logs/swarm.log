@@ -1,0 +1,24 @@
+Thread-4 (connect_to_peer) - DEBUG - swarm 
+HANDSHAKE with (149.102.226.201 : 58178) : (FAILED)
+COUNT BITFIELDs with (149.102.226.201 : 58178) : did not recieved !
+
+Thread-1 (connect_to_peer) - DEBUG - swarm 
+HANDSHAKE with (185.5.46.1 : 24962) : (FAILED)
+COUNT BITFIELDs with (185.5.46.1 : 24962) : did not recieved !
+
+Thread-6 (connect_to_peer) - DEBUG - swarm 
+HANDSHAKE with (45.89.90.148 : 6881) : (FAILED)
+COUNT BITFIELDs with (45.89.90.148 : 6881) : did not recieved !
+
+Thread-2 (connect_to_peer) - DEBUG - swarm 
+HANDSHAKE with (178.221.182.71 : 51413) : (FAILED)
+COUNT BITFIELDs with (178.221.182.71 : 51413) : did not recieved !
+
+Thread-5 (connect_to_peer) - DEBUG - swarm 
+HANDSHAKE with (136.144.42.129 : 8999) : (FAILED)
+COUNT BITFIELDs with (136.144.42.129 : 8999) : did not recieved !
+
+Thread-3 (connect_to_peer) - DEBUG - swarm 
+HANDSHAKE with (178.162.173.90 : 20003) : (SUCCESSFUL)
+COUNT BITFIELDs with (178.162.173.90 : 20003) : 113 pieces
+

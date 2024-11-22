@@ -1,0 +1,53 @@
+MainThread - DEBUG - P2P file sharing network 
+Reading input_file.torrent file ...
+
+MainThread - DEBUG - P2P file sharing network 
++-----------------------------------------+------------------------------------+
+| CLIENT TORRENT DATA (client state = dow |             DATA VALUE             |
+|                nloading)                |                                    |
++-----------------------------------------+------------------------------------+
+|                File name                | Too Much and Never Enough - Mary T |
+|                                         |             rump.epub              |
++-----------------------------------------+------------------------------------+
+|                File size                |              1.76 MB               |
++-----------------------------------------+------------------------------------+
+|              Piece length               |               16384                |
++-----------------------------------------+------------------------------------+
+|                Info hash                |   20 Bytes file info hash value    |
++-----------------------------------------+------------------------------------+
+|                  Files                  |                None                |
++-----------------------------------------+------------------------------------+
+|            Number of Pieces             |                113                 |
++-----------------------------------------+------------------------------------+
+|               Client port               |                6881                |
++-----------------------------------------+------------------------------------+
+|             Client peer ID              |      b'-PC0001-737640614314'       |
++-----------------------------------------+------------------------------------+
+
+MainThread - DEBUG - P2P file sharing network 
+Connecting to Trackers ...
+
+MainThread - DEBUG - P2P file sharing network 
++---------------------------+--------------------------------------+
+| UDP TRACKER RESPONSE DATA |              DATA VALUE              |
++---------------------------+--------------------------------------+
+|      UDP tracker URL      |     tracker.internetwarriors.net     |
++---------------------------+--------------------------------------+
+|         Interval          |                 1856                 |
++---------------------------+--------------------------------------+
+|    Number of leechers     |                  0                   |
++---------------------------+--------------------------------------+
+|     Number of seeders     |                  6                   |
++---------------------------+--------------------------------------+
+|      Peers in swarm       | (185.5.46.1 : 24962)... 5 more peers |
++---------------------------+--------------------------------------+
+
+MainThread - DEBUG - P2P file sharing network 
+Initializing the swarm of peers ...
+
+MainThread - DEBUG - P2P file sharing network 
+Initializing the file handler for peers in swarm ... 
+
+MainThread - DEBUG - P2P file sharing network 
+Client started downloading (check torrent statistics) ... 
+
